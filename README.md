@@ -56,14 +56,8 @@ python oblivionsec.py
 
 Ao executar o script, você verá o menu principal com as seguintes opções:
 
-1. Parsing HTML
-2. Banner Grabbing
-3. DoS
-4. Port Scanning
-5. Whois
-6. Port Knocking
-7. DNS Scan
-8. Exit
+![image](https://github.com/user-attachments/assets/feae37b0-3e56-4e99-9559-2c77e3ea2a55)
+
 
 Selecione a opção desejada digitando o número correspondente e siga as instruções na tela.
 
