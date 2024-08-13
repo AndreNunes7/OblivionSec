@@ -83,8 +83,14 @@ Selecione a opção desejada digitando o número correspondente e siga as instru
   Digite um domínio para realizar scanning de DNS e identificar subdomínios.
 
 
-\n
-\n
+
+
+
+
+
+
+
+
 
 **Aviso Legal:** OblivionSec foi desenvolvida para fins educacionais e de teste de segurança. O uso desta ferramenta para atividades maliciosas ou ilegais é estritamente proibido. O autor não se responsabiliza por qualquer uso indevido da ferramenta.
 
