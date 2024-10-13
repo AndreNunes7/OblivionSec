@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/07a6d7c6-d831-4f81-bfdc-e8ac2cb6e4a1)# OblivionSec
-
 OblivionSec é uma ferramenta de cybersecurity desenvolvida para realizar diversas atividades de teste de segurança, como parsing de HTML, banner grabbing, ataques DoS, scanning de portas, knocking de portas, consultas WHOIS e DNS scanning. A ferramenta foi criada com o objetivo de auxiliar em testes de penetração e análise de vulnerabilidades em redes e sistemas.
 
 ## Funcionalidades
@@ -58,8 +56,7 @@ python oblivionsec.py
 Ao executar o script, você verá o menu principal com as seguintes opções:
 
 
-![image](https://github.com/user-attachments/assets/45865a2a-9679-4ad5-988e-38b60488b6be)
-
+![image](https://github.com/user-attachments/assets/07a6d7c6-d831-4f81-bfdc-e8ac2cb6e4a1)
 
 Selecione a opção desejada digitando o número correspondente e siga as instruções na tela.
 
