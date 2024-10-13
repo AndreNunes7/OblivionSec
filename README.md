@@ -11,6 +11,7 @@ OblivionSec é uma ferramenta de cybersecurity desenvolvida para realizar divers
 - **Whois**: Consulta informações WHOIS de domínios.
 - **Port Knocking**: Realiza port knocking para abrir portas protegidas.
 - **DNS Scan**: Realiza scanning de DNS para identificar subdomínios e servidores DNS.
+- **Web Recon**: permite identificar diretórios e arquivos ocultos em páginas web
 
 ## Requisitos
 
